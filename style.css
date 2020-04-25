@@ -1,0 +1,12 @@
+.wrapper { background-color: #eeddcc;
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 30px;
+}
+header {
+    background-color: #ffddbb;
+}
+
+h1 {color: black;}
+
